@@ -1,13 +1,7 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.Collections.Immutable;
-using System.Globalization;
-using System.Linq;
-using System.Net.NetworkInformation;
-using System.Security.Cryptography;
 
-namespace Grundlæggende_Programmering
+namespace Liste
 {
     class Program
     {
@@ -43,9 +37,6 @@ namespace Grundlæggende_Programmering
 
                 }
             }
-
         }
-
     }
-
 }
