@@ -10,13 +10,13 @@ namespace Metoder
         {
             List<int> iRandList = new List<int>();
 
-            Console.WriteLine("Noget text");
+            Console.WriteLine("En random liste");
             RandList(iRandList);
 
-            Console.WriteLine("\nNoget text");
+            Console.WriteLine("\nListen sorteret");
             BubbleSort(iRandList);
 
-            Console.WriteLine("\nNoget mere text");
+            Console.WriteLine("\nVis den er true so er liste sorteret");
             CheckIfSorted(iRandList);
 
         }
