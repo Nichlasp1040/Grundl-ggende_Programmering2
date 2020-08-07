@@ -786,6 +786,7 @@ namespace Grundlæggende_Programmering
                     Console.WriteLine("\nDu har vundet 300kr");
                     break;
             }
+
         }
 
     }
